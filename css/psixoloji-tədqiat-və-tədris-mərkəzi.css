@@ -518,7 +518,7 @@ strong {
 }
 
 .slick-custom img {
-  width: 100%;
+  width: 500px;
   object-fit: cover;
 }
 
