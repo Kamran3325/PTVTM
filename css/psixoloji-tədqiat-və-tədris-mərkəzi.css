@@ -501,12 +501,12 @@ strong {
 -----------------------------------------*/
 @media (min-width: 992px) {
   .slick-slideshow {
-    height: 100vh;
+    height: 600px;
   }
 }
 
 .slick-slideshow {
-  margin-top: 86px;
+  margin-top: 90px;
 }
 
 .slick-title {
