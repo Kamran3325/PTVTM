@@ -501,7 +501,7 @@ strong {
 -----------------------------------------*/
 @media (min-width: 992px) {
   .slick-slideshow {
-    height: 600px;
+    height: 100vh;
   }
 }
 
@@ -535,7 +535,7 @@ strong {
 
 .slick-bottom .container {
   position: absolute;
-  top: 40%;
+  top: 50%;
   left: 50%;
   transform: translate(-50%, -40%);
 }
