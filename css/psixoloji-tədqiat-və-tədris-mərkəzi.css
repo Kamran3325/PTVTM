@@ -511,6 +511,8 @@ strong {
 
 .slick-title {
   color: var(--white-color);
+  font-size: 48px;
+  font-weight: bold;
 }
 
 .slick-custom {
@@ -557,10 +559,9 @@ strong {
 
 @media (min-width: 576px) {
   .slick-slideshow .slick-dots {
-    max-width: 540px;
-	  
+    max-width: 540px;  
   }
-     .slick-title {
+    .slick-title {
         font-size: 28px;
     }
 }
